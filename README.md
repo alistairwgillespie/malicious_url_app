@@ -1,5 +1,7 @@
 # MalURL Detector App
 
+**Authors:** Alistair Gillespie & Veatrissa Lim
+
 ### Introduction
 ___
 This is a Flask App that houses the MalURL Detector. The app simply takes a URL as input, then based on the extraction of a set of lexical and reputational features, predicts the maliciousness of the URL. 
